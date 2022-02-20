@@ -1,5 +1,4 @@
-# desafio-Capgemini
-<h1 align="center">Desafio de programação - Academia Capgemini</h1>
+<h1 align="center">desafio-Capgemini</h1>
 
 Requisitos:
 
